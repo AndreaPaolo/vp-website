@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>emoji on Blist Multilingual Theme</title>
-    <link>https://andreapaolo.github.io/vp-website/en/tags/emoji/</link>
+    <link>https://maruflmood.it/en/tags/emoji/</link>
     <description>Recent content in emoji on Blist Multilingual Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://andreapaolo.github.io/vp-website/en/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maruflmood.it/en/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
-      <link>https://andreapaolo.github.io/vp-website/en/blog/emoji-support/</link>
+      <link>https://maruflmood.it/en/blog/emoji-support/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://andreapaolo.github.io/vp-website/en/blog/emoji-support/</guid>
+      <guid>https://maruflmood.it/en/blog/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
