@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blist.vercel.app/dy/</loc>
+    <loc>https://andreapaolo.github.io/vp-website/dy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blist.vercel.app/en/"
+                href="https://andreapaolo.github.io/vp-website/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://blist.vercel.app/fr/"
+                href="https://andreapaolo.github.io/vp-website/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blist.vercel.app/de/"
+                href="https://andreapaolo.github.io/vp-website/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dy"
-                href="https://blist.vercel.app/dy/"
+                href="https://andreapaolo.github.io/vp-website/dy/"
                 />
   </url><url>
-    <loc>https://blist.vercel.app/dy/categories/</loc>
+    <loc>https://andreapaolo.github.io/vp-website/dy/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blist.vercel.app/en/categories/"
+                href="https://andreapaolo.github.io/vp-website/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://blist.vercel.app/fr/categories/"
+                href="https://andreapaolo.github.io/vp-website/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blist.vercel.app/de/categories/"
+                href="https://andreapaolo.github.io/vp-website/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dy"
-                href="https://blist.vercel.app/dy/categories/"
+                href="https://andreapaolo.github.io/vp-website/dy/categories/"
                 />
   </url><url>
-    <loc>https://blist.vercel.app/dy/tags/</loc>
+    <loc>https://andreapaolo.github.io/vp-website/dy/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blist.vercel.app/en/tags/"
+                href="https://andreapaolo.github.io/vp-website/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://blist.vercel.app/fr/tags/"
+                href="https://andreapaolo.github.io/vp-website/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blist.vercel.app/de/tags/"
+                href="https://andreapaolo.github.io/vp-website/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dy"
-                href="https://blist.vercel.app/dy/tags/"
+                href="https://andreapaolo.github.io/vp-website/dy/tags/"
                 />
   </url>
 </urlset>

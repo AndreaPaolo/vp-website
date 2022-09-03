@@ -2,257 +2,257 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blist.vercel.app/en/page/about/</loc>
+    <loc>https://andreapaolo.github.io/vp-website/en/page/about/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blist.vercel.app/de/page/about/"
+                href="https://andreapaolo.github.io/vp-website/de/page/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blist.vercel.app/en/page/about/"
+                href="https://andreapaolo.github.io/vp-website/en/page/about/"
                 />
   </url><url>
-    <loc>https://blist.vercel.app/en/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://blist.vercel.app/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://blist.vercel.app/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="dy"
-                href="https://blist.vercel.app/dy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blist.vercel.app/en/"
-                />
-  </url><url>
-    <loc>https://blist.vercel.app/en/blog/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://blist.vercel.app/de/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blist.vercel.app/en/blog/"
-                />
-  </url><url>
-    <loc>https://blist.vercel.app/en/tags/emoji/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://blist.vercel.app/de/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blist.vercel.app/en/tags/emoji/"
-                />
-  </url><url>
-    <loc>https://blist.vercel.app/en/blog/emoji-support/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://blist.vercel.app/de/blog/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blist.vercel.app/en/blog/emoji-support/"
-                />
-  </url><url>
-    <loc>https://blist.vercel.app/en/page/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://blist.vercel.app/de/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blist.vercel.app/en/page/"
-                />
-  </url><url>
-    <loc>https://blist.vercel.app/en/tags/</loc>
+    <loc>https://andreapaolo.github.io/vp-website/en/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://blist.vercel.app/fr/tags/"
+                href="https://andreapaolo.github.io/vp-website/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blist.vercel.app/de/tags/"
+                href="https://andreapaolo.github.io/vp-website/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dy"
-                href="https://blist.vercel.app/dy/tags/"
+                href="https://andreapaolo.github.io/vp-website/dy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blist.vercel.app/en/tags/"
+                href="https://andreapaolo.github.io/vp-website/en/"
                 />
   </url><url>
-    <loc>https://blist.vercel.app/en/tags/css/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <loc>https://andreapaolo.github.io/vp-website/en/blog/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blist.vercel.app/de/tags/css/"
+                href="https://andreapaolo.github.io/vp-website/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blist.vercel.app/en/tags/css/"
+                href="https://andreapaolo.github.io/vp-website/en/blog/"
                 />
   </url><url>
-    <loc>https://blist.vercel.app/en/tags/html/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <loc>https://andreapaolo.github.io/vp-website/en/tags/emoji/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blist.vercel.app/de/tags/html/"
+                href="https://andreapaolo.github.io/vp-website/de/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blist.vercel.app/en/tags/html/"
+                href="https://andreapaolo.github.io/vp-website/en/tags/emoji/"
                 />
   </url><url>
-    <loc>https://blist.vercel.app/en/tags/markdown/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <loc>https://andreapaolo.github.io/vp-website/en/blog/emoji-support/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blist.vercel.app/de/tags/markdown/"
+                href="https://andreapaolo.github.io/vp-website/de/blog/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blist.vercel.app/en/tags/markdown/"
+                href="https://andreapaolo.github.io/vp-website/en/blog/emoji-support/"
                 />
   </url><url>
-    <loc>https://blist.vercel.app/en/blog/markdown-syntax/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <loc>https://andreapaolo.github.io/vp-website/en/page/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blist.vercel.app/de/blog/markdown-syntax/"
+                href="https://andreapaolo.github.io/vp-website/de/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blist.vercel.app/en/blog/markdown-syntax/"
+                href="https://andreapaolo.github.io/vp-website/en/page/"
                 />
   </url><url>
-    <loc>https://blist.vercel.app/en/blog/math-typesetting/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blist.vercel.app/en/blog/placeholder-text/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://blist.vercel.app/de/blog/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blist.vercel.app/en/blog/placeholder-text/"
-                />
-  </url><url>
-    <loc>https://blist.vercel.app/en/tags/privacy/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://blist.vercel.app/de/tags/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blist.vercel.app/en/tags/privacy/"
-                />
-  </url><url>
-    <loc>https://blist.vercel.app/en/blog/rich-content/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://blist.vercel.app/de/blog/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blist.vercel.app/en/blog/rich-content/"
-                />
-  </url><url>
-    <loc>https://blist.vercel.app/en/tags/shortcodes/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://blist.vercel.app/de/tags/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blist.vercel.app/en/tags/shortcodes/"
-                />
-  </url><url>
-    <loc>https://blist.vercel.app/en/tags/text/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://blist.vercel.app/de/tags/text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blist.vercel.app/en/tags/text/"
-                />
-  </url><url>
-    <loc>https://blist.vercel.app/en/categories/</loc>
+    <loc>https://andreapaolo.github.io/vp-website/en/tags/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://blist.vercel.app/fr/categories/"
+                href="https://andreapaolo.github.io/vp-website/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://blist.vercel.app/de/categories/"
+                href="https://andreapaolo.github.io/vp-website/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dy"
-                href="https://blist.vercel.app/dy/categories/"
+                href="https://andreapaolo.github.io/vp-website/dy/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blist.vercel.app/en/categories/"
+                href="https://andreapaolo.github.io/vp-website/en/tags/"
+                />
+  </url><url>
+    <loc>https://andreapaolo.github.io/vp-website/en/tags/css/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andreapaolo.github.io/vp-website/de/tags/css/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andreapaolo.github.io/vp-website/en/tags/css/"
+                />
+  </url><url>
+    <loc>https://andreapaolo.github.io/vp-website/en/tags/html/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andreapaolo.github.io/vp-website/de/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andreapaolo.github.io/vp-website/en/tags/html/"
+                />
+  </url><url>
+    <loc>https://andreapaolo.github.io/vp-website/en/tags/markdown/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andreapaolo.github.io/vp-website/de/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andreapaolo.github.io/vp-website/en/tags/markdown/"
+                />
+  </url><url>
+    <loc>https://andreapaolo.github.io/vp-website/en/blog/markdown-syntax/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andreapaolo.github.io/vp-website/de/blog/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andreapaolo.github.io/vp-website/en/blog/markdown-syntax/"
+                />
+  </url><url>
+    <loc>https://andreapaolo.github.io/vp-website/en/blog/math-typesetting/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andreapaolo.github.io/vp-website/en/blog/placeholder-text/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andreapaolo.github.io/vp-website/de/blog/placeholder-text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andreapaolo.github.io/vp-website/en/blog/placeholder-text/"
+                />
+  </url><url>
+    <loc>https://andreapaolo.github.io/vp-website/en/tags/privacy/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andreapaolo.github.io/vp-website/de/tags/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andreapaolo.github.io/vp-website/en/tags/privacy/"
+                />
+  </url><url>
+    <loc>https://andreapaolo.github.io/vp-website/en/blog/rich-content/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andreapaolo.github.io/vp-website/de/blog/rich-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andreapaolo.github.io/vp-website/en/blog/rich-content/"
+                />
+  </url><url>
+    <loc>https://andreapaolo.github.io/vp-website/en/tags/shortcodes/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andreapaolo.github.io/vp-website/de/tags/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andreapaolo.github.io/vp-website/en/tags/shortcodes/"
+                />
+  </url><url>
+    <loc>https://andreapaolo.github.io/vp-website/en/tags/text/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andreapaolo.github.io/vp-website/de/tags/text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andreapaolo.github.io/vp-website/en/tags/text/"
+                />
+  </url><url>
+    <loc>https://andreapaolo.github.io/vp-website/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://andreapaolo.github.io/vp-website/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andreapaolo.github.io/vp-website/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="dy"
+                href="https://andreapaolo.github.io/vp-website/dy/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andreapaolo.github.io/vp-website/en/categories/"
                 />
   </url>
 </urlset>
