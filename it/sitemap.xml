@@ -14,6 +14,18 @@
                 href="https://maruflmood.it/it/page/about/"
                 />
   </url><url>
+    <loc>https://maruflmood.it/it/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maruflmood.it/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://maruflmood.it/it/"
+                />
+  </url><url>
     <loc>https://maruflmood.it/it/blog/</loc>
     <xhtml:link
                 rel="alternate"
@@ -60,18 +72,6 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://maruflmood.it/it/tags/"
-                />
-  </url><url>
-    <loc>https://maruflmood.it/it/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://maruflmood.it/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://maruflmood.it/it/"
                 />
   </url>
 </urlset>
