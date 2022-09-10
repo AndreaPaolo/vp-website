@@ -36,13 +36,11 @@ DefaultContentLanguageInSubdir = true
     contentDir = "content/it" # Deutsch
     weight = 2
     languageName = "Italiano"
-    title = "Titolo"
-    description = "Descrizione"
     [languages.it.params]
       introTitle = "Intro titolo"
       introSubtitle = "Intro subtitolo"
       introPhoto = "/images/picture.jpg"
-      logo = "/images/blist-logo-de.png"
+      logo = "/images/Test.svg"
     [[languages.it.menu.main]]
         name = "Blog"
         url = "blog"
