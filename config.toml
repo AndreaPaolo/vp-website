@@ -14,7 +14,7 @@ DefaultContentLanguageInSubdir = true
       introTitle = "Hey! I'm Katheryn Fox"
       introSubtitle = "26 y/o junior developer who enjoys social card games, blogging and painting"
       introPhoto = "/images/picture.jpg"
-      logo = "/images/blist-logo.png"
+      logo = "/images/logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
@@ -40,7 +40,7 @@ DefaultContentLanguageInSubdir = true
       introTitle = "Intro titolo"
       introSubtitle = "Intro subtitolo"
       introPhoto = "/images/picture.jpg"
-      logo = "/images/logo.svg"
+      logo = "/images/logo.png"
     [[languages.it.menu.main]]
         name = "Blog"
         url = "blog"
