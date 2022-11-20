@@ -108,7 +108,7 @@ DefaultContentLanguageInSubdir = true
   enableSearch = true
 
   # Custom copyright - optional
-  copyright = "Copyright © 2021 - Katheryn Fox · All rights reserved"
+  copyright = "Copyright © 2022 - Maruflmood · All rights reserved"
   favicon = "/images/logo.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
