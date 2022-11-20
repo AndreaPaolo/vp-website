@@ -11,8 +11,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "introTitle"
-      introSubtitle = "introSubtitle"
+      introTitle = "I dream of sharing all this with someone."
+      introSubtitle = "I dream of losing myself in colors, sounds and fragrances of the world. I dream of becoming a digital nomad and not to miss any sunset sea view."
       introPhoto = "/images/me.jpg"
       logo = "/images/logo.png"
     [[languages.en.menu.main]]
@@ -29,20 +29,20 @@ DefaultContentLanguageInSubdir = true
         weight = 3
     [languages.en.params.homepage.social]
       # Global params common for both languages
-      title = "en"
-      description = "Eiusmod occaecat et irure veniam fugiat elit sit et do culpa dolore cupidatat deserunt."
-      instagram = "https://"
-      tripadvisor = "https://"
+      title = ""
+      description = "You can find me here too"
+      instagram = "https://instagram.com/maruflmood?igshid=YmMyMTA2M2Y="
+      tripadvisor = "https://www.tripadvisor.it/Profile/maruflmood"
       tiktok = "https://"
       email = "mailto:info@maruflmood.it"
 
   [languages.it]
-    contentDir = "content/it"
+    contentDir = "content/it" #Italiano
     weight = 2
     languageName = "Italiano"
     [languages.it.params]
-      introTitle = "Lorem Ipsum"
-      introSubtitle = "Anim eu duis voluptate do cillum mollit irure duis id consequat anim."
+      introTitle = "Sogno di condividere tutto questo con qualcuno."
+      introSubtitle = "Sogno di perdermi nei colori, nei suoni e nei profumi del mondo. Sogno di diventare nomade digitale e non perdermi nessun tramonto vista mare."
       introPhoto = "/images/me.jpg"
       logo = "/images/logo.png"
     [[languages.it.menu.main]]
@@ -61,20 +61,20 @@ DefaultContentLanguageInSubdir = true
         weight = 3
     [languages.it.params.homepage.social]
       # Global params common for both languages
-      title = "it"
-      description = "Eiusmod occaecat et irure veniam fugiat elit sit et do culpa dolore cupidatat deserunt."
-      instagram = "https://"
-      tripadvisor = "https://"
+      title = ""
+      description = "Puoi trovarmi anche qui"
+      instagram = "https://instagram.com/maruflmood?igshid=YmMyMTA2M2Y="
+      tripadvisor = "https://www.tripadvisor.it/Profile/maruflmood"
       tiktok = "https://"
       email = "mailto:info@maruflmood.it"
   
   [languages.es]
-    contentDir = "content/es"
+    contentDir = "content/es" #Spagnolo
     weight = 3
     languageName = "Español"
     [languages.es.params]
-      introTitle = "Lorem Ipsum"
-      introSubtitle = "Anim eu duis voluptate do cillum mollit irure duis id consequat anim."
+      introTitle = "Sueño con compartir todo esto con alguien."
+      introSubtitle = "Sueño con perderme en los colores, los sonidos y los aromas del mundo. Sueño con convertirme en una nómada digital y no perderme ningún atardecer frente al mar."
       introPhoto = "/images/me.jpg"
       logo = "/images/logo.png"
     [[languages.es.menu.main]]
@@ -93,10 +93,10 @@ DefaultContentLanguageInSubdir = true
         weight = 3
     [languages.es.params.homepage.social]
       # Global params common for both languages
-      title = "esp"
-      description = "Eiusmod occaecat et irure veniam fugiat elit sit et do culpa dolore cupidatat deserunt."
-      instagram = "https://"
-      tripadvisor = "https://"
+      title = ""
+      description = "Puedes encontrarme aquí también"
+      instagram = "https://instagram.com/maruflmood?igshid=YmMyMTA2M2Y="
+      tripadvisor = "https://www.tripadvisor.it/Profile/maruflmood"
       tiktok = "https://"
       email = "mailto:info@maruflmood.it"
 

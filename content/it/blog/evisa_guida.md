@@ -3,11 +3,17 @@ author: "Valentina P"
 title: "VISTO ELETTRONICO PER L’EGITTO: GUIDA PASSO PER PASSO PER OTTENERLO"
 date: 2022-10-15
 draft: true
-tags: ["egitto", "visto", "guida"]
+tags: ["egitto", "visto"]
 
-description: ""
-keywords:
-
+description: "Quanto costa il visto elettronico per l'Egitto? Come ottenere l'evisa prima della partenza? Ecco la guida definitiva in cui ti spiego passo per passo come ottenere il tuo evisa senza commettere errori"
+keywords: 
+- egitto
+- visto elettronico egitto
+- evisa egitto
+- turismo egitto
+- costo evisa egitto
+- come ottenere evisa egitto
+- visto turistico online egitto
 thumbnail: "/images/evisa_guida/thumbnail.jpeg"
 ---
 
@@ -27,7 +33,7 @@ In secondo luogo è necessario disporre di:
 ### Guida passo per passo per ottenere il tuo visto elettronico per l’Egitto 
 
 Fatte queste precisazioni, andiamo a scoprire insieme **come richiedere il tuo visto elettronico** (eVisa).
-Il primo passo da fare è quello di collegarsi al questo [sito internet](https://www.visa2egypt.gov.eg/).
+Il primo passo da fare è quello di collegarsi a questo [sito internet](https://www.visa2egypt.gov.eg/).
 
 Appena ti collegherai lo vedrai in lingua araba ma, in alto a destra (ho disegnato una freccia rossa, non puoi sbagliare), potrai cambiare la lingua e selezionare l’italiano.
 
@@ -75,7 +81,7 @@ Avrai creato la tua applicazione, dovrai semplicemente premere su **Conferma**; 
 ### Tempistiche che devi conoscere
 
 Generalmente le richieste per ottenere l’eVisa vengono elaborate circa in **5 giorni lavorativi**.
-Il mio consiglio è quello di completare e inviare la richiesta almeno un **dieci giorni prima della partenza**. 
+Il mio consiglio è quello di completare e inviare la richiesta almeno **dieci giorni prima della partenza**. 
 Generalmente i ritardi nella ricezione dell’eVisa sono dati un elevato numero di richieste da elaborare o da errori commessi nella compilazione dei campi richiesti, per questo motivo il mio consiglio è quello di ricontrollare più volte i dati che inserisci.
 
 ### Costi e tipologie

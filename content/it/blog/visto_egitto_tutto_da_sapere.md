@@ -3,10 +3,17 @@ author: "Valentina P"
 title: "VISTO PER L’EGITTO: TUTTO QUELLO CHE DEVI SAPERE"
 date: 2022-10-14
 draft: true
-tags: ["egitto", "visto", "guida"]
+tags: ["egitto", "visto"]
 
-description: ""
-#keywords:
+description: "Stai organizzando un viaggio in Egitto e non sai quali sono i documenti necessari per entrare nel Paese? Quale visto? Tipologie di visto a confronto. Qual è la differenza tra il visto turistico e il Sinai Only?"
+keywords: 
+- egitto
+- visto egitto
+- visto turistico egitto
+- sinai only
+- turismo egitto
+- visto lavorativo egitto
+- sharm el sheikh visto
 
 thumbnail: "/images/visto_egitto_tutto_da_sapere/thumbnail.jpg"
 ---

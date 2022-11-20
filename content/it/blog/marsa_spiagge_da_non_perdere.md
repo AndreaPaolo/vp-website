@@ -8,6 +8,16 @@ tags: ["egitto"]
 #description: "VISTO ELETTRONICO PER L’EGITTO: GUIDA PASSO PER PASSO PER OTTENERLO"
 #keywords:
 
+#keywords: 
+#    - salute
+#    - obesità
+#    - 7 aprile
+#    - andrea paolo
+#    - paolo andrea
+#    - personal trainer
+#    - prevenzione
+
+
 #thumbnail: "/images/evisa_guida/thumbnail.jpeg"
 ---
 
