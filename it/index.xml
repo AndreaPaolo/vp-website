@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blist Multilingual Theme</title>
+    <title>MaruflMood</title>
     <link>https://maruflmood.it/it/</link>
-    <description>Recent content on Blist Multilingual Theme</description>
+    <description>Recent content on MaruflMood</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://maruflmood.it/it/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>CHI SONO E COSA SOGNO</title>
       <link>https://maruflmood.it/it/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://maruflmood.it/it/page/about/</guid>
-      <description></description>
+      <description>Ciao, sono Valentina! Sono nata all&amp;rsquo;ombra della cupola del Brunelleschi, Firenze, ma da sempre ho il cuore costantemente rivolto verso sud.
+Parlo molto ma non con tutti, mi emoziono facilmente davanti ai piccoli gesti e ai tramonti e credo che l&amp;rsquo;amore sia il motore della (mia) vita.
+Il primo viaggio l&amp;rsquo;ho fatto a due anni e credo che questa passione sia nata proprio così o, forse, era già scritta da qualche parte.</description>
     </item>
     
   </channel>

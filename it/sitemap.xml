@@ -2,35 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://maruflmood.it/it/page/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://maruflmood.it/en/page/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://maruflmood.it/it/page/about/"
-                />
-  </url><url>
-    <loc>https://maruflmood.it/it/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://maruflmood.it/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://maruflmood.it/it/"
-                />
-  </url><url>
     <loc>https://maruflmood.it/it/blog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://maruflmood.it/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://maruflmood.it/es/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -46,8 +27,47 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="https://maruflmood.it/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="it"
                 href="https://maruflmood.it/it/categories/"
+                />
+  </url><url>
+    <loc>https://maruflmood.it/it/page/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maruflmood.it/en/page/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://maruflmood.it/es/page/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://maruflmood.it/it/page/about/"
+                />
+  </url><url>
+    <loc>https://maruflmood.it/it/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maruflmood.it/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://maruflmood.it/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://maruflmood.it/it/"
                 />
   </url><url>
     <loc>https://maruflmood.it/it/page/</loc>
@@ -55,6 +75,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://maruflmood.it/en/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://maruflmood.it/es/page/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -67,6 +92,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://maruflmood.it/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://maruflmood.it/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
