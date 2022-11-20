@@ -8,7 +8,7 @@ tags: ["egitto", "visto", "guida"]
 description: "VISTO ELETTRONICO PER L’EGITTO: GUIDA PASSO PER PASSO PER OTTENERLO"
 keywords:
 
-#thumbnail: "/images/profilo.jpg"
+thumbnail: "/images/evisa_guida/thumbnail.jpeg"
 ---
 
 
