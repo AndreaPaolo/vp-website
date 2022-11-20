@@ -5,7 +5,7 @@ date: 2022-10-15
 draft: true
 tags: ["egitto", "visto", "guida"]
 
-description: "VISTO ELETTRONICO PER L’EGITTO: GUIDA PASSO PER PASSO PER OTTENERLO"
+description: ""
 keywords:
 
 thumbnail: "/images/evisa_guida/thumbnail.jpeg"

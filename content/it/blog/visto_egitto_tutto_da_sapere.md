@@ -5,10 +5,10 @@ date: 2022-10-14
 draft: true
 tags: ["egitto", "visto", "guida"]
 
-#description: "VISTO ELETTRONICO PER L’EGITTO: GUIDA PASSO PER PASSO PER OTTENERLO"
+description: ""
 #keywords:
 
-#thumbnail: "/images/evisa_guida/thumbnail.jpeg"
+thumbnail: "/images/visto_egitto_tutto_da_sapere/thumbnail.jpg"
 ---
 
 L’**Egitto** è sicuramente uno di quei Paesi che almeno una volta nella vita tutti hanno sognato di visitare.
