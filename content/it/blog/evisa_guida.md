@@ -5,7 +5,7 @@ date: 2022-10-15
 draft: true
 tags: ["egitto", "visto", "guida"]
 
-description: ""
+description: "VISTO ELETTRONICO PER L’EGITTO: GUIDA PASSO PER PASSO PER OTTENERLO"
 keywords:
 
 #thumbnail: "/images/profilo.jpg"
@@ -76,7 +76,7 @@ Avrai creato la tua applicazione, dovrai semplicemente premere su **Conferma**; 
 
 Generalmente le richieste per ottenere l’eVisa vengono elaborate circa in **5 giorni lavorativi**.
 Il mio consiglio è quello di completare e inviare la richiesta almeno un **dieci giorni prima della partenza**. 
-Generalmente i ritardi nella ricezione dell’eVisa sono dati un elevato numero di richieste da elaborare o da errori commessi nella compilazione dei campi richiesti, per questo motivo  il mio consiglio è quello di ricontrollare più volte i dati che inserisci.
+Generalmente i ritardi nella ricezione dell’eVisa sono dati un elevato numero di richieste da elaborare o da errori commessi nella compilazione dei campi richiesti, per questo motivo il mio consiglio è quello di ricontrollare più volte i dati che inserisci.
 
 ### Costi e tipologie
 

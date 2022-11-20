@@ -1,6 +1,6 @@
 baseurl = "https://maruflmood.it"
 metaDataFormat = "yaml"
-title = "Blist Multilingual Theme"
+title = "MaruflMood"
 theme = "blist"
 
 DefaultContentLanguage = "it"
@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hey! I'm Katheryn Fox"
-      introSubtitle = "26 y/o junior developer who enjoys social card games, blogging and painting"
-      introPhoto = "/images/picture.jpg"
+      introTitle = "introTitle"
+      introSubtitle = "introSubtitle"
+      introPhoto = "/images/me.jpg"
       logo = "/images/logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
@@ -27,19 +27,23 @@ DefaultContentLanguageInSubdir = true
         name = "Tags"
         url = "tags"
         weight = 3
-    [[languages.en.menu.main]]
-        name = "Top Post"
-        url = "/en/blog/emoji-support/"
-        weight = 4
+    [languages.en.params.homepage.social]
+      # Global params common for both languages
+      title = "en"
+      description = "Eiusmod occaecat et irure veniam fugiat elit sit et do culpa dolore cupidatat deserunt."
+      instagram = "https://"
+      tripadvisor = "https://"
+      tiktok = "https://"
+      email = "mailto:info@maruflmood.it"
 
   [languages.it]
-    contentDir = "content/it" # Deutsch
+    contentDir = "content/it"
     weight = 2
     languageName = "Italiano"
     [languages.it.params]
-      introTitle = "Intro titolo"
-      introSubtitle = "Intro subtitolo"
-      introPhoto = "/images/picture.jpg"
+      introTitle = "Lorem Ipsum"
+      introSubtitle = "Anim eu duis voluptate do cillum mollit irure duis id consequat anim."
+      introPhoto = "/images/me.jpg"
       logo = "/images/logo.png"
     [[languages.it.menu.main]]
         name = "Blog"
@@ -55,6 +59,46 @@ DefaultContentLanguageInSubdir = true
         name = "Tags"
         url = "tags"
         weight = 3
+    [languages.it.params.homepage.social]
+      # Global params common for both languages
+      title = "it"
+      description = "Eiusmod occaecat et irure veniam fugiat elit sit et do culpa dolore cupidatat deserunt."
+      instagram = "https://"
+      tripadvisor = "https://"
+      tiktok = "https://"
+      email = "mailto:info@maruflmood.it"
+  
+  [languages.es]
+    contentDir = "content/es"
+    weight = 3
+    languageName = "Español"
+    [languages.es.params]
+      introTitle = "Lorem Ipsum"
+      introSubtitle = "Anim eu duis voluptate do cillum mollit irure duis id consequat anim."
+      introPhoto = "/images/me.jpg"
+      logo = "/images/logo.png"
+    [[languages.es.menu.main]]
+        name = "Blog"
+        url = "blog"
+        weight = 1
+
+    [[languages.es.menu.main]]
+        name = "Quien soy"
+        url = "page/about/"
+        weight = 2
+
+    [[languages.es.menu.main]]
+        name = "Tags"
+        url = "tags"
+        weight = 3
+    [languages.es.params.homepage.social]
+      # Global params common for both languages
+      title = "esp"
+      description = "Eiusmod occaecat et irure veniam fugiat elit sit et do culpa dolore cupidatat deserunt."
+      instagram = "https://"
+      tripadvisor = "https://"
+      tiktok = "https://"
+      email = "mailto:info@maruflmood.it"
 
 [params]
   # Enable the darkmode toggle in header

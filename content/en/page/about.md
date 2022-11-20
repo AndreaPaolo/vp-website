@@ -1,26 +1,28 @@
 ---
-author: Katheryn Fox
-title: About Me
-date: 2021-07-15
+author: 
+title: WHO I AM AND WHAT I DREAM OF
+date: 
 description:
-keywords: ["about-us", "about-hugo", "contact"]
+keywords: []
 type: about
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hi, I'm Valentina!
+I was born in the shadow of **Brunelleschi's dome**, Florence, but my heart has always been constantly facing south (mainly facing sourthern Italy).
 
-Hugo makes use of a variety of open source projects including:
+**I talk a lot** but not with everyone, **I get excited** in front of simple things and sunsets and I believe that **love** is the engine of (my) life.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+**My first trip** was when I was two years old and I think that this passion was born in that moment or, perhaps, it was already written somewhere.
+I left a piece of my heart in every place I visited but **there are two places I consider home**: **Gargano** (Apulia, south Italy) and **Sharm El Sheikh** (Egypt).
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+I'm deeply in love and somehow connected with the **sea** and **it's from here that Maruflmood is born**: [marufələ] means "**waves of sea**" in the dialect of an Apulian city (Apricena), and it's from Apricena that my love for Gargano is born.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+I have a lot of hobbies but the constant, even in my studies, has always been **traveling joined with this desire to dive into different places and cultures**.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+**I dream of becoming a digital nomad**, and losing myself in colors, sounds and fragrances of the world; get lost to find myself.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+**I dream not to miss** any sunset sea view and to share all this with someone.
+
+**I dream of showing you** through my eyes the places I visit and sharing tips with you to make you live the places I lived.
+
+**I dream of collaborating with brands** that want to talk about themselves online and the find a way to do it through my eyes and my words.
