@@ -3,7 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://maruflmood.it/en/blog/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -19,78 +18,6 @@
                 hreflang="en"
                 href="https://maruflmood.it/en/blog/"
                 />
-  </url><url>
-    <loc>https://maruflmood.it/en/tags/emoji/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maruflmood.it/en/blog/emoji-support/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maruflmood.it/en/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://maruflmood.it/it/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://maruflmood.it/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://maruflmood.it/en/"
-                />
-  </url><url>
-    <loc>https://maruflmood.it/en/tags/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://maruflmood.it/it/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://maruflmood.it/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://maruflmood.it/en/tags/"
-                />
-  </url><url>
-    <loc>https://maruflmood.it/en/tags/css/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maruflmood.it/en/tags/html/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maruflmood.it/en/tags/markdown/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maruflmood.it/en/blog/markdown-syntax/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maruflmood.it/en/blog/math-typesetting/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maruflmood.it/en/blog/placeholder-text/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maruflmood.it/en/tags/privacy/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maruflmood.it/en/blog/rich-content/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maruflmood.it/en/tags/shortcodes/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maruflmood.it/en/tags/text/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maruflmood.it/en/categories/</loc>
     <xhtml:link
@@ -109,6 +36,23 @@
                 href="https://maruflmood.it/en/categories/"
                 />
   </url><url>
+    <loc>https://maruflmood.it/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://maruflmood.it/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://maruflmood.it/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maruflmood.it/en/"
+                />
+  </url><url>
     <loc>https://maruflmood.it/en/page/</loc>
     <xhtml:link
                 rel="alternate"
@@ -124,6 +68,23 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://maruflmood.it/en/page/"
+                />
+  </url><url>
+    <loc>https://maruflmood.it/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://maruflmood.it/it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://maruflmood.it/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maruflmood.it/en/tags/"
                 />
   </url><url>
     <loc>https://maruflmood.it/en/page/about/</loc>
