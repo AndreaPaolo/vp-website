@@ -6,6 +6,7 @@ theme = "blist"
 googleAnalytics: G-6942LKLMPR
 enableRobotsTXT: true
 
+
 DefaultContentLanguage = "it"
 DefaultContentLanguageInSubdir = true
 [languages]
