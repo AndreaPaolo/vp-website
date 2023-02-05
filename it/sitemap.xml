@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://maruflmood.it/it/blog/</loc>
+    <lastmod>2022-10-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,6 +19,51 @@
                 hreflang="it"
                 href="https://maruflmood.it/it/blog/"
                 />
+  </url><url>
+    <loc>https://maruflmood.it/it/tags/egitto/</loc>
+    <lastmod>2022-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maruflmood.it/it/</loc>
+    <lastmod>2022-10-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maruflmood.it/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://maruflmood.it/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://maruflmood.it/it/"
+                />
+  </url><url>
+    <loc>https://maruflmood.it/it/tags/</loc>
+    <lastmod>2022-10-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maruflmood.it/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://maruflmood.it/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://maruflmood.it/it/tags/"
+                />
+  </url><url>
+    <loc>https://maruflmood.it/it/tags/visto/</loc>
+    <lastmod>2022-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maruflmood.it/it/blog/visto_egitto_tutto_da_sapere/</loc>
+    <lastmod>2022-10-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maruflmood.it/it/categories/</loc>
     <xhtml:link
@@ -53,23 +99,6 @@
                 href="https://maruflmood.it/it/page/about/"
                 />
   </url><url>
-    <loc>https://maruflmood.it/it/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://maruflmood.it/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://maruflmood.it/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://maruflmood.it/it/"
-                />
-  </url><url>
     <loc>https://maruflmood.it/it/page/</loc>
     <xhtml:link
                 rel="alternate"
@@ -85,23 +114,6 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://maruflmood.it/it/page/"
-                />
-  </url><url>
-    <loc>https://maruflmood.it/it/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://maruflmood.it/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://maruflmood.it/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://maruflmood.it/it/tags/"
                 />
   </url>
 </urlset>
