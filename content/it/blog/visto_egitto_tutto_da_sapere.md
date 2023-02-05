@@ -66,7 +66,7 @@ Ottenere il Sinai Only è molto semplice: una volta atterrati all'aeroporto di S
 
 Il **visto studio** si richiede alle autorità locali quando si arriva nel Paese, infatti, questa tipologia di visto **non può essere richiesto né presso i Consolati italiani né online**.
 
-Per ottenerlo sarà necessario entrare in Egitto con un visto turistico ed entro sette giorni dall'arrivo, **registrasi alla stazione di polizia locale** più vicina.
+Per ottenerlo sarà necessario entrare in Egitto con un visto turistico ed entro sette giorni dall'arrivo, **registrarsi alla stazione di polizia locale** più vicina.
 
 Inoltre, dovrai compilare un **modulo di richiesta di visto** che, generalmente, viene rilasciato dall'ente universitario o scolastico che ti ospiterà per studiare.
 
