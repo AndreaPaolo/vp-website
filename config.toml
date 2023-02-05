@@ -3,8 +3,8 @@ metaDataFormat = "yaml"
 title = "MaruflMood"
 theme = "blist"
 
-googleAnalytics= G-6942LKLMPR
-enableRobotsTXT= true
+googleAnalytics = G-6942LKLMPR
+enableRobotsTXT = true
 
 
 DefaultContentLanguage = "it"
