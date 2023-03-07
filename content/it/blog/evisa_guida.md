@@ -2,7 +2,7 @@
 author: "Valentina P"
 title: "VISTO ELETTRONICO PER L’EGITTO: GUIDA PASSO PER PASSO PER OTTENERLO"
 date: 2022-10-15
-draft: true
+draft: false
 tags: ["egitto", "visto"]
 
 description: "Quanto costa il visto elettronico per l'Egitto? Come ottenere l'evisa prima della partenza? Ecco la guida definitiva in cui ti spiego passo per passo come ottenere il tuo evisa senza commettere errori"
